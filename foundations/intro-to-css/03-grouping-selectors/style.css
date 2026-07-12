@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+button {
+    font-size: 28px;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.first-btn {
+    background-color: #000;
+    color: #fff;
+}
+
+.second-btn {
+    background-color: rgb(255, 251, 0);
+}
